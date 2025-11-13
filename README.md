@@ -2,6 +2,9 @@
 
 Bem-vindo ao dashboard de "Visão Geral de Vendas"! Este projeto visa oferecer uma análise clara e concisa do desempenho de vendas, identificando tendências e insights cruciais para a tomada de decisões estratégicas.
 
+
+<img width="893" height="564" alt="image" src="https://github.com/user-attachments/assets/c7ca47d9-3435-486f-b64f-42e2c066097d" />
+
 ---
 <img width="903" height="507" alt="image" src="https://github.com/user-attachments/assets/76092f78-4dd9-4f9f-b95c-da0c12f4bf18" />
 
